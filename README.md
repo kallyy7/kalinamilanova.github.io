@@ -1,2 +1,1 @@
-# kalinamilanova.github.io
-Blog Design
+HTML5 AND CSS - BLOG DESIGN - Еxercise
